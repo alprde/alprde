@@ -37,7 +37,7 @@ Fullstack Web Developer olarak modern web teknolojileri ile çalışmaktan keyif
 - Website: []
 
 #### 📊 GitHub İstatistiklerim
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINIZ&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alprde&show_icons=true&theme=radical)
 
 ---
-⭐️ [GitHub Profile Views Counter](https://github.com/KULLANICI_ADINIZ) 
+⭐️ [GitHub Profile Views Counter](https://github.com/alprde) 
