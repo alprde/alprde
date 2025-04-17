@@ -1,4 +1,4 @@
-### Merhaba, Ben Alper 👋
+### Merhaba, Ben Musa 👋
 
 Fullstack Web Developer olarak modern web teknolojileri ile çalışmaktan keyif alıyorum.
 
@@ -10,17 +10,19 @@ Fullstack Web Developer olarak modern web teknolojileri ile çalışmaktan keyif
 - Vue.js
 - Tailwind CSS
 - Bootstrap
+- React Native
+- Flutter
 
 **Backend:**
 - Node.js
 - PHP
 - MySQL
-- MongoDB
 - RESTful APIs
 
 **Araçlar:**
 - Git & GitHub
 - VS Code
+- PhpStorm
 - Docker
 - Linux
 
